@@ -6,6 +6,13 @@ Useful for giving a terminal coding agent a screenshot without saving it by hand
 
 Tested by Kyle Wild in **Apple's Terminal, iTerm2, and Ghostty**. Requires macOS and Raycast.
 
+## Prerequisites
+
+- A Mac running macOS.
+- [Raycast](https://www.raycast.com/) installed and running.
+- Apple's Terminal, iTerm2, or Ghostty.
+- For remote use, an SSH connection that can authenticate without a password or other interactive prompt.
+
 ## Install
 
 Paste this repo URL into your Codex/Claude/OpenCode/pi/whatever and say **“make this work for me, please”**:
