@@ -9,7 +9,7 @@ Tested by Kyle Wild in **Apple's Terminal, iTerm2, and Ghostty**. Requires macOS
 ## Prerequisites
 
 - A Mac running macOS.
-- [Raycast](https://www.raycast.com/) installed and running.
+- [Raycast](https://www.raycast.com/) installed and running. If you don't have this, you probably should. It replaces Spotlight / ⌘Space with something 1000x better.
 - Apple's Terminal, iTerm2, or Ghostty.
 - For remote use, an SSH connection that can authenticate without a password or other interactive prompt.
 
