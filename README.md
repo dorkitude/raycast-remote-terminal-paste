@@ -1,6 +1,8 @@
 # Raycast Remote Terminal Paste
 
-Paste clipboard images into Ghostty, iTerm2, or Apple Terminal, with automatic SSH upload.
+Paste clipboard image paths into your terminal, locally or over SSH. Remote images upload automatically.
+
+Tested by Kyle Wild in Apple's Terminal, iTerm2, and Ghostty.
 
 Paste this repo URL into your Codex/Claude/OpenCode/pi/whatever and say “make this work for me, please”:
 
