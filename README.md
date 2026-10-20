@@ -1,6 +1,6 @@
 # Raycast Remote Terminal Paste
 
-Copy a screenshot, press a hotkey, and get an image path in your terminal—even when you're SSH'd into another machine.
+Copy a screenshot, press a hotkey to paste an image path in your terminal—even when you're SSH'd into another machine.
 
 Useful for giving a terminal coding agent a screenshot without saving it by hand, figuring out which server needs it, or running a separate upload command.
 
